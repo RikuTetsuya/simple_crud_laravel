@@ -1,0 +1,13 @@
+helloww
+
+ini adalah website yang mengimplementasikan CRUD sederhana dengan 2 tabel dan 1 relasi
+website ini dibuat dengan memecah template terlebih dahulu demi kemudahan dalam pembuatan dan mempercepat load
+website ini menggunakan AJAX untuk membuat fungsi view/read data, namun karena saya baru belajar AJAX saya hanya baru bisa sampai menampilkan ID data saja (akan dipelajari lebih lanjut)
+terdapat 2 tombol delete. tombol delete berwarna merah berfungsimenghapus data dengan menampilkan sweet alert, sedangkan tombol delete berwarna biru untuk menghapus data dengan alert JS biasa (untuk pembiasaan dalam belajar)
+terdapat notifier dalam setiap operasi pengolahan data baik itu menambahkan, mengubah, dan menghapus data
+dalam menambah data saya menggunakan metode query builder
+
+menuju tabel Department dengan http://127.0.0.1:8000/department atau klik sidebar pada opsi "Master" -> Department 
+menuju tabel Sub-Department dengan http://127.0.0.1:8000/sub_department atau klik sidebar pada opsi "Master" -> Sub-Department 
+
+terimakasi ^^
